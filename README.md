@@ -16,6 +16,6 @@ If you want to play through the level you'll have to use a little bit of your im
 
 - It can be a little slow if you want to adjust geometry because of the amount of actors and their scale. 
 
-- All the glass in the level can be destroyed but sometimes get caught in the wheel and make the car stuck. Same thing for the chasm on the bridge
+- All the glass in the level can be destroyed but sometimes get caught in the wheel and make the car stuck. Same thing for the wooden chasm on the bridge
 
 - The reverse button has a mind of it's own. Sometimes it works, sometimes it doesn't. Unsure of why.
