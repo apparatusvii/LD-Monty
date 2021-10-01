@@ -1,0 +1,1388 @@
+﻿Log file open, 07/17/21 18:15:51
+LogInit: Display: Running engine for game: MyProject8
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.157401
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=DimmaDick -epicuserid=7b95ff9d90cc4d37b5fc0a8cfc08e768 -epiclocale=en
+LogInit: Base Directory: Z:/epic games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Engine.ini]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Engine.ini]
+[2021.07.17-22.15.51:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Engine.ini]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Engine.ini]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.17-22.15.51:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Engine.ini]
+[2021.07.17-22.15.51:247][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Engine.ini]
+[2021.07.17-22.15.51:249][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.17-22.15.51:249][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.07.17-22.15.51:250][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.17-22.15.51:250][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.17-22.15.51:250][  0]LogHAL: Display: Platform has ~ 16 GB [17128157184 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.17-22.15.51:250][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.17-22.15.51:250][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.17-22.15.51:250][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Scalability.ini]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.17-22.15.51:251][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Config/Windows/Engine.ini]
+[2021.07.17-22.15.51:251][  0]LogInit: Computer: ASTROTRAIN
+[2021.07.17-22.15.51:251][  0]LogInit: User: ASTROTRAIN
+[2021.07.17-22.15.51:251][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.07.17-22.15.51:251][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.17-22.15.51:251][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.07.17-22.15.51:251][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.17-22.15.51:252][  0]LogMemory: Process Physical Memory: 115.47 MB used, 115.48 MB peak
+[2021.07.17-22.15.51:252][  0]LogMemory: Process Virtual Memory: 97.91 MB used, 97.91 MB peak
+[2021.07.17-22.15.51:252][  0]LogMemory: Physical Memory: 9210.65 MB used,  7124.03 MB free, 16334.68 MB total
+[2021.07.17-22.15.51:252][  0]LogMemory: Virtual Memory: 5186.61 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2021.07.17-22.15.51:255][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.17-22.15.51:292][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.17-22.15.51:294][  0]LogInit: Using OS detected language (en-US).
+[2021.07.17-22.15.51:294][  0]LogInit: Using OS detected locale (en-US).
+[2021.07.17-22.15.51:296][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.07.17-22.15.51:448][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.17-22.15.51:467][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.17-22.15.51:467][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.17-22.15.51:643][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.17-22.15.51:644][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.17-22.15.51:644][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.17-22.15.51:644][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.17-22.15.51:719][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.07.17-22.15.51:719][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.07.17-22.15.51:720][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.17-22.15.51:721][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.17-22.15.51:721][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.17-22.15.51:726][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.17-22.15.51:726][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.17-22.15.51:726][  0]LogWindows: EnumDisplayDevices:
+[2021.07.17-22.15.51:726][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.07.17-22.15.51:726][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.07.17-22.15.51:726][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.07.17-22.15.51:726][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.07.17-22.15.51:727][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.17-22.15.51:727][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.07.17-22.15.51:727][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2021.07.17-22.15.51:727][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2021.07.17-22.15.51:727][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.07.17-22.15.51:790][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.17-22.15.51:790][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.17-22.15.51:790][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.17-22.15.51:812][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.17-22.15.52:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.17-22.15.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.17-22.15.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.17-22.15.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.17-22.15.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.17-22.15.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.17-22.15.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.17-22.15.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.17-22.15.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.17-22.15.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.17-22.15.52:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.17-22.15.52:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.17-22.15.52:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.17-22.15.52:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.17-22.15.52:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.17-22.15.52:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.17-22.15.52:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.17-22.15.52:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.17-22.15.52:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.17-22.15.52:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.17-22.15.52:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.17-22.15.52:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.17-22.15.52:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.17-22.15.52:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.17-22.15.52:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.17-22.15.52:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.17-22.15.52:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.17-22.15.52:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.17-22.15.52:190][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.17-22.15.52:196][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.17-22.15.52:238][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/bob/Documents/Unreal Projects/MyProject8/Intermediate/Shaders/WorkingDirectory/19988/).
+[2021.07.17-22.15.52:238][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bob/AppData/Local/Temp/UnrealShaderWorkingDir/3917E2094D5F53FA63149FB9A246F836/'.
+[2021.07.17-22.15.52:239][  0]LogXGEController: Cleaning working directory: C:/Users/bob/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.07.17-22.15.52:239][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.07.17-22.15.52:239][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.17-22.15.52:239][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.17-22.15.52:864][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.17-22.15.52:907][  0]LogDerivedDataCache: Loaded boot cache 0.04s 75MB C:/Users/bob/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.07.17-22.15.52:907][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bob/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.07.17-22.15.52:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/bob/Documents/Unreal Projects/MyProject8/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.17-22.15.52:908][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.17-22.15.52:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/bob/Documents/Unreal Projects/MyProject8/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.17-22.15.52:908][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.17-22.15.52:918][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.17-22.15.52:918][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.17-22.15.52:918][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.17-22.15.52:919][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.17-22.15.52:919][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.17-22.15.52:919][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.17-22.15.52:961][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.17-22.15.52:962][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.17-22.15.52:984][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2021.07.17-22.15.53:195][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.17-22.15.53:285][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.17-22.15.53:285][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.17-22.15.53:285][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.17-22.15.53:285][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.17-22.15.53:285][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.17-22.15.53:297][  0]LogNetVersion: MyProject8 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4125028684)
+[2021.07.17-22.15.53:643][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000019858969BC0), frame # 0
+[2021.07.17-22.15.53:643][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000198588AF740), frame # 0
+[2021.07.17-22.15.53:645][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019858906000), frame # 0
+[2021.07.17-22.15.53:674][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.023382 seconds
+[2021.07.17-22.15.53:679][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.07.17-22.15.53:679][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.07.17-22.15.53:679][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.17-22.15.53:954][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.17-22.15.53:958][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.17-22.15.54:020][  0]SourceControl: Source control is disabled
+[2021.07.17-22.15.54:020][  0]SourceControl: Source control is disabled
+[2021.07.17-22.15.54:022][  0]SourceControl: Source control is disabled
+[2021.07.17-22.15.54:025][  0]SourceControl: Source control is disabled
+[2021.07.17-22.15.54:030][  0]SourceControl: Source control is disabled
+[2021.07.17-22.15.54:224][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.17-22.15.54:239][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.17-22.15.54:240][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.17-22.15.54:279][  0]LogOcInput: OculusInput pre-init called
+[2021.07.17-22.15.54:288][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.17-22.15.54:288][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.17-22.15.54:343][  0]LogEngine: Initializing Engine...
+[2021.07.17-22.15.54:344][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.17-22.15.54:344][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.17-22.15.54:345][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.17-22.15.54:436][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.17-22.15.54:442][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.17-22.15.54:442][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001985BBE4800), frame # 0
+[2021.07.17-22.15.54:443][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001985BC11440), frame # 0
+[2021.07.17-22.15.54:456][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.17-22.15.54:456][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.17-22.15.54:456][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.17-22.15.54:456][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.17-22.15.54:456][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.17-22.15.54:456][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.17-22.15.54:456][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.17-22.15.54:456][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.17-22.15.54:456][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.17-22.15.54:456][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.17-22.15.54:465][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.17-22.15.54:465][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.17-22.15.54:491][  0]LogAudioMixer: Display: Using Audio Device Headphones (2- High Definition Audio Device)
+[2021.07.17-22.15.54:494][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.17-22.15.54:497][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.17-22.15.54:497][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.17-22.15.54:498][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.17-22.15.54:498][  0]LogInit: FAudioDevice initialized.
+[2021.07.17-22.15.54:498][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.17-22.15.54:577][  0]LogDerivedDataCache: Saved boot cache 0.08s 75MB C:/Users/bob/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.07.17-22.15.54:578][  0]LogInit: Texture streaming: Enabled
+[2021.07.17-22.15.54:591][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.17-22.15.54:591][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={0EE48625-4BD4-0553-BE95-10940D11E1E1}
+[2021.07.17-22.15.54:591][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.17-22.15.54:593][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.17-22.15.54:623][  0]LogInit: Transaction tracking system initialized
+[2021.07.17-22.15.54:638][  0]BlueprintLog: New page: Editor Load
+[2021.07.17-22.15.54:692][  0]LocalizationService: Localization service is disabled
+[2021.07.17-22.15.54:810][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.07.17-22.15.54:810][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.17-22.15.54:824][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/' took 0.00s
+[2021.07.17-22.15.55:111][  0]SourceControl: Source control is disabled
+[2021.07.17-22.15.55:216][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.17-22.16.03:612][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.07.17-22.16.03:612][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.07.17-22.16.03:627][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.07.17-22.16.07:490][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.07.17-22.16.07:491][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.07.17-22.16.07:494][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/VehicleBP/Maps/VehicleExampleMap
+[2021.07.17-22.16.07:508][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.07.17-22.16.07:509][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.011
+[2021.07.17-22.16.07:510][  0]Cmd: MAP LOAD FILE="C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.17-22.16.07:511][  0]LightingResults: New page: Lighting Build
+[2021.07.17-22.16.07:512][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-22.16.07:512][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.16.07:512][  0]MapCheck: New page: Map Check
+[2021.07.17-22.16.07:512][  0]LightingResults: New page: Lighting Build
+[2021.07.17-22.16.07:532][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001985BBE4800), frame # 0
+[2021.07.17-22.16.07:532][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001985BC11440), frame # 0
+[2021.07.17-22.16.07:533][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.07.17-22.16.07:811][  0]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.07.17-22.16.07:811][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001984D9ABE00), frame # 0
+[2021.07.17-22.16.07:811][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001984BEEAFC0), frame # 0
+[2021.07.17-22.16.07:825][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.17-22.16.07:871][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.07.17-22.16.07:872][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.17-22.16.07:872][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.194ms to complete.
+[2021.07.17-22.16.07:872][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 0.362
+[2021.07.17-22.16.07:874][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.376
+[2021.07.17-22.16.07:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.16.07:951][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.16.07:956][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.16.07:961][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.16.07:966][  0]LogCollectionManager: Loaded 0 collections in 0.000729 seconds
+[2021.07.17-22.16.07:978][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/Collections/' took 0.00s
+[2021.07.17-22.16.07:978][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/Developers/ASTROTRAIN/Collections/' took 0.00s
+[2021.07.17-22.16.07:978][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/Collections/' took 0.00s
+[2021.07.17-22.16.07:978][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3429 classes and 824 folders.
+[2021.07.17-22.16.07:980][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.17-22.16.08:044][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.17-22.16.08:045][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.07.17-22.16.08:076][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.17-22.16.08:079][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.17-22.16.08:105][  0]LogRenderer: Reallocating scene render targets to support 916x460 Format 10 NumSamples 1 (Frame:1).
+[2021.07.17-22.16.08:183][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.17-22.16.08:183][  0]LogLoad: (Engine Initialization) Total time: 18.68 seconds
+[2021.07.17-22.16.08:183][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.17-22.16.08:193][  0]LogRawInputWindows: Warning: Found device 8 devices
+[2021.07.17-22.16.08:193][  0]LogRawInputWindows: Warning: Found device 8 devices
+[2021.07.17-22.16.08:193][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2021.07.17-22.16.08:194][  0]LogRawInputWindows: Warning: Found device 8 devices
+[2021.07.17-22.16.08:194][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2021.07.17-22.16.08:214][  0]LogAssetRegistry: Asset discovery search completed in 15.2302 seconds
+[2021.07.17-22.16.08:216][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.07.17-22.16.08:222][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.17-22.16.08:236][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.17-22.16.26:814][210]LogActorFactory: Actor Factory created Cube
+[2021.07.17-22.16.27:883][333]LogActorFactory: Actor Factory created Cube
+[2021.07.17-22.16.47:817][662]Cmd: DELETE
+[2021.07.17-22.16.47:817][662]Cmd: ACTOR DELETE
+[2021.07.17-22.16.47:853][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.17-22.16.47:866][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.07.17-22.16.47:867][662]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.07.17-22.16.51:138][ 45]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.07.17-22.17.22:418][305]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.17-22.17.22:448][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.07.17-22.17.22:749][305]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap78C52EF148A0BED81238A8A43E53AD35.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.17.23:143][305]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltData17EF8BBA47174381A105FB8331861E99.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.17.23:151][305]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.17.23:151][305]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.17.23:151][305]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.18.07:388][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.07.17-22.18.07:677][915]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap9B52F3B249E80BE40B4ACE9D55B24903.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.18.07:886][915]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltDataF84FA51040C57B920955A4A5EB7C5E3A.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.18.07:894][915]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.18.07:894][915]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.18.07:894][915]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.18.53:650][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.07.17-22.18.53:947][728]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMapE160A607408896FDC1673AA438967BF6.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.18.54:161][728]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltDataFED4336443247E4CCC5B80B31BD5A25A.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.18.54:175][728]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.18.54:175][728]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.18.54:175][728]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.21.56:352][789]Cmd: TRANSACTION UNDO
+[2021.07.17-22.21.56:352][789]LogEditorTransaction: Undo Rotate Actors
+[2021.07.17-22.22.00:686][232]Cmd: MODE ROTGRID=1
+[2021.07.17-22.22.28:143][112]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush54)
+[2021.07.17-22.22.42:149][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.07.17-22.22.42:459][625]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap7739A29044143C463EC17D90026FEF99.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.22.42:679][625]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltData4393F8B24167B51ED3840AA4502BD73B.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.22.42:687][625]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.22.42:687][625]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.22.42:687][625]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.25.08:122][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.07.17-22.25.08:420][465]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMapD0777C3A47A2C06EE3A93CA5F2E33D9B.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.25.08:632][465]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltDataE6A0A82C475254926671D8B0BCB62543.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.25.08:641][465]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.25.08:641][465]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.25.08:641][465]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.25.57:455][605]LogSlate: Window 'Select Path' being destroyed
+[2021.07.17-22.25.57:487][605]LogStaticMesh: Building static mesh Box_Brush47_StaticMesh...
+[2021.07.17-22.25.57:488][605]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Box_Brush47_StaticMesh.Box_Brush47_StaticMesh
+[2021.07.17-22.25.57:517][605]LogActorFactory: Actor Factory created Box_Brush47_StaticMesh
+[2021.07.17-22.25.57:909][605]LogEditor: Error: Actor 'Brush /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BoxBrush47' is marked pending kill and cannot be converted
+[2021.07.17-22.25.57:909][605]EditorErrors: New page: Actor Reattachment
+[2021.07.17-22.25.57:934][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.17-22.26.02:420][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush47_StaticMesh)
+[2021.07.17-22.26.05:263][433]Cmd: TRANSACTION UNDO
+[2021.07.17-22.26.05:263][433]LogEditorTransaction: Undo Convert Actors
+[2021.07.17-22.26.11:613][ 85]LogSlate: Window 'Select Path' being destroyed
+[2021.07.17-22.26.11:636][ 85]LogStaticMesh: Building static mesh Box_Brush47_StaticMesh...
+[2021.07.17-22.26.11:637][ 85]LogStaticMesh: Built static mesh [0.00s] /Game/Box_Brush47_StaticMesh.Box_Brush47_StaticMesh
+[2021.07.17-22.26.11:666][ 85]LogActorFactory: Actor Factory created Box_Brush47_StaticMesh
+[2021.07.17-22.26.12:060][ 85]LogEditor: Error: Actor 'Brush /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BoxBrush47' is marked pending kill and cannot be converted
+[2021.07.17-22.26.12:060][ 85]EditorErrors: New page: Actor Reattachment
+[2021.07.17-22.26.12:073][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.07.17-22.26.14:150][321]Cmd: TRANSACTION UNDO
+[2021.07.17-22.26.14:150][321]LogEditorTransaction: Undo Convert Actors
+[2021.07.17-22.26.21:277][ 84]LogEditorViewport: Clicking Background
+[2021.07.17-22.26.24:032][394]LogEditorViewport: Clicking Background
+[2021.07.17-22.26.31:395][174]LogSlate: Window 'Select Path' being destroyed
+[2021.07.17-22.26.31:831][174]EditorErrors: New page: Actor Reattachment
+[2021.07.17-22.26.31:843][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.17-22.26.33:808][398]Cmd: TRANSACTION UNDO
+[2021.07.17-22.26.33:808][398]LogEditorTransaction: Undo Convert Actors
+[2021.07.17-22.26.38:771][905]LogSlate: Window 'Select Path' being destroyed
+[2021.07.17-22.26.39:213][905]EditorErrors: New page: Actor Reattachment
+[2021.07.17-22.26.39:224][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.07.17-22.26.40:088][996]Cmd: TRANSACTION UNDO
+[2021.07.17-22.26.40:088][996]LogEditorTransaction: Undo Convert Actors
+[2021.07.17-22.26.46:829][725]LogSlate: Window 'Select Path' being destroyed
+[2021.07.17-22.26.46:854][725]LogStaticMesh: Building static mesh Box_Brush47_StaticMesh1...
+[2021.07.17-22.26.46:855][725]LogStaticMesh: Built static mesh [0.00s] /Game/Box_Brush47_StaticMesh1.Box_Brush47_StaticMesh1
+[2021.07.17-22.26.46:882][725]LogActorFactory: Actor Factory created Box_Brush47_StaticMesh1
+[2021.07.17-22.26.47:282][725]LogEditor: Error: Actor 'Brush /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.BoxBrush47' is marked pending kill and cannot be converted
+[2021.07.17-22.26.47:282][725]EditorErrors: New page: Actor Reattachment
+[2021.07.17-22.26.47:290][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.07.17-22.26.48:820][896]Cmd: TRANSACTION UNDO
+[2021.07.17-22.26.48:820][896]LogEditorTransaction: Undo Convert Actors
+[2021.07.17-22.26.50:264][  2]Cmd: TRANSACTION UNDO
+[2021.07.17-22.26.50:264][  2]LogEditorTransaction: Undo Select Brush Surface
+[2021.07.17-22.26.51:919][161]Cmd: DELETE
+[2021.07.17-22.26.51:920][161]Cmd: ACTOR DELETE
+[2021.07.17-22.26.51:973][161]LogEditorActor: Deleted Actor: Brush
+[2021.07.17-22.26.51:982][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.17-22.26.52:363][161]LogEditorActor: Deleted 1 Actors (0.443 secs)
+[2021.07.17-22.28.26:142][708]Cmd: TRANSACTION UNDO
+[2021.07.17-22.28.26:142][708]LogEditorTransaction: Undo Move Actors
+[2021.07.17-22.29.53:985][ 20]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.07.17-22.30.41:120][ 97]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.07.17-22.31.48:220][ 68]Cmd: TRANSACTION UNDO
+[2021.07.17-22.31.48:220][ 68]LogEditorTransaction: Undo Move Actors
+[2021.07.17-22.33.41:285][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.07.17-22.33.41:641][772]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap5084521B4B6448FFEFB475B2F45856EE.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.33.41:867][772]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltData5D3E0D5C47042B3A060F62843B8D64F6.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.33.41:876][772]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.33.41:876][772]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.33.41:876][772]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.34.08:093][899]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.17-22.34.08:099][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.17-22.34.08:099][899]PIE: New page: PIE session: VehicleExampleMap (Jul 17, 2021, 2:34:08 PM)
+[2021.07.17-22.34.08:100][899]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.17-22.34.08:101][899]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.17-22.34.08:101][899]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.34.08:257][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156456s)
+[2021.07.17-22.34.08:258][899]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.07.17-22.34.08:258][899]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000198C07B3000), frame # 106899
+[2021.07.17-22.34.08:258][899]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000198A2440E00), frame # 106899
+[2021.07.17-22.34.08:259][899]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2021.07.17-22.34.08:259][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.157601s)
+[2021.07.17-22.34.08:272][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.07.17-22.34.08:283][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.17-22.34.08:283][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.17-22.34.08:283][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.17-22.34.08:283][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.17-22.34.08:283][899]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.17-22.34.08:283][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.17-22.34.08:283][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.17-22.34.08:283][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.17-22.34.08:284][899]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.17-22.34.08:284][899]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.17-22.34.08:287][899]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.17-22.34.08:287][899]LogAudioMixer: Display: 1: FrontRight
+[2021.07.17-22.34.08:300][899]LogAudioMixer: Display: Using Audio Device Headphones (2- High Definition Audio Device)
+[2021.07.17-22.34.08:300][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.17-22.34.08:300][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.17-22.34.08:300][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.17-22.34.08:300][899]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.17-22.34.08:309][899]LogInit: FAudioDevice initialized.
+[2021.07.17-22.34.08:314][899]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.07.17-22.34.08:325][899]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.07.17-18.34.08
+[2021.07.17-22.34.08:325][899]LogWorld: Bringing up level for play took: 0.009671
+[2021.07.17-22.34.08:326][899]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.07.17-22.34.08:328][899]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.07.17-22.34.08:329][899]PIE: Server logged in
+[2021.07.17-22.34.08:330][899]PIE: Play in editor total start time 0.232 seconds.
+[2021.07.17-22.36.24:562][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.36.24:562][236]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.36.24:562][236]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-22.36.24:564][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.36.24:568][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.17-22.36.24:570][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.36.24:588][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.36.24:589][236]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000198A2440E00), frame # 123236
+[2021.07.17-22.36.24:589][236]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000198C07B3000), frame # 123236
+[2021.07.17-22.36.24:592][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.17-22.36.24:646][240]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.07.17-22.37.24:392][761]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.07.17-22.37.57:858][  3]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.07.17-22.38.41:379][453]Cmd: TRANSACTION UNDO
+[2021.07.17-22.38.41:379][453]LogEditorTransaction: Undo Move Actors
+[2021.07.17-22.39.31:555][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.07.17-22.39.31:901][341]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap651507A84D99C70356A62D9BBF831264.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.39.32:122][341]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltData0235B48C4042F2544479999C54BC82F4.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.39.32:134][341]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.39.32:134][341]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.39.32:134][341]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.39.35:383][714]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.17-22.39.35:389][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.17-22.39.35:390][714]PIE: New page: PIE session: VehicleExampleMap (Jul 17, 2021, 2:39:35 PM)
+[2021.07.17-22.39.35:420][714]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.39.35:583][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162699s)
+[2021.07.17-22.39.35:584][714]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.07.17-22.39.35:584][714]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019870C00400), frame # 139714
+[2021.07.17-22.39.35:584][714]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000198BA225580), frame # 139714
+[2021.07.17-22.39.35:584][714]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2021.07.17-22.39.35:584][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.163811s)
+[2021.07.17-22.39.35:598][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.17-22.39.35:606][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.17-22.39.35:606][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.17-22.39.35:606][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.17-22.39.35:606][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.17-22.39.35:606][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.17-22.39.35:606][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.17-22.39.35:606][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.17-22.39.35:606][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.17-22.39.35:607][714]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.17-22.39.35:607][714]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.17-22.39.35:610][714]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.17-22.39.35:610][714]LogAudioMixer: Display: 1: FrontRight
+[2021.07.17-22.39.35:622][714]LogAudioMixer: Display: Using Audio Device Headphones (2- High Definition Audio Device)
+[2021.07.17-22.39.35:622][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.17-22.39.35:622][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.17-22.39.35:622][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.17-22.39.35:623][714]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.17-22.39.35:631][714]LogInit: FAudioDevice initialized.
+[2021.07.17-22.39.35:642][714]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.07.17-22.39.35:652][714]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.07.17-18.39.35
+[2021.07.17-22.39.35:652][714]LogWorld: Bringing up level for play took: 0.009404
+[2021.07.17-22.39.35:652][714]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.07.17-22.39.35:654][714]PIE: Server logged in
+[2021.07.17-22.39.35:655][714]PIE: Play in editor total start time 0.266 seconds.
+[2021.07.17-22.39.37:511][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.39.37:511][927]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.39.37:512][927]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-22.39.37:513][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.39.37:519][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.17-22.39.37:521][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.39.37:528][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.39.37:542][927]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000198BA225580), frame # 139927
+[2021.07.17-22.39.37:542][927]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019870C00400), frame # 139927
+[2021.07.17-22.39.37:545][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.07.17-22.39.37:583][929]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.07.17-22.39.49:740][311]LogEditorViewport: Clicking on Actor (CTRL LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.07.17-22.40.34:925][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.07.17-22.40.35:268][915]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap9AA45E4E4333333373D7FB8FC9A51E30.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.40.35:485][915]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltDataC7920FE44C05A16F217222AEAD2182DA.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.40.35:499][915]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.40.35:499][915]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.40.35:499][915]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.40.39:868][417]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2021.07.17-22.40.45:752][997]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2021.07.17-22.41.01:496][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.07.17-22.41.01:823][543]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMapB754D21C4DB23F29895E669C33F3EEBF.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.41.02:029][543]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltData33DE08EF4F42722D50B1C5939D0941D8.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.41.02:038][543]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.41.02:038][543]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.41.02:038][543]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.41.10:481][334]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.17-22.41.10:488][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.17-22.41.10:488][334]PIE: New page: PIE session: VehicleExampleMap (Jul 17, 2021, 2:41:10 PM)
+[2021.07.17-22.41.10:488][334]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.41.10:656][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166894s)
+[2021.07.17-22.41.10:656][334]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.07.17-22.41.10:656][334]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001988E0B1600), frame # 149334
+[2021.07.17-22.41.10:656][334]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000198A6EA5580), frame # 149334
+[2021.07.17-22.41.10:657][334]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2021.07.17-22.41.10:657][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.167949s)
+[2021.07.17-22.41.10:666][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.07.17-22.41.10:673][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.17-22.41.10:673][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.17-22.41.10:673][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.17-22.41.10:673][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.17-22.41.10:673][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.17-22.41.10:673][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.17-22.41.10:673][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.17-22.41.10:673][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.17-22.41.10:673][334]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.17-22.41.10:673][334]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.17-22.41.10:677][334]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.17-22.41.10:677][334]LogAudioMixer: Display: 1: FrontRight
+[2021.07.17-22.41.10:689][334]LogAudioMixer: Display: Using Audio Device Headphones (2- High Definition Audio Device)
+[2021.07.17-22.41.10:689][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.17-22.41.10:689][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.17-22.41.10:689][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.17-22.41.10:689][334]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.17-22.41.10:698][334]LogInit: FAudioDevice initialized.
+[2021.07.17-22.41.10:704][334]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.07.17-22.41.10:715][334]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.07.17-18.41.10
+[2021.07.17-22.41.10:716][334]LogWorld: Bringing up level for play took: 0.010267
+[2021.07.17-22.41.10:716][334]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.07.17-22.41.10:718][334]PIE: Server logged in
+[2021.07.17-22.41.10:718][334]PIE: Play in editor total start time 0.23 seconds.
+[2021.07.17-22.41.13:451][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.41.13:451][650]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.41.13:451][650]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-22.41.13:453][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.41.13:457][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.17-22.41.13:459][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.41.13:478][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.41.13:479][650]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000198A6EA5580), frame # 149650
+[2021.07.17-22.41.13:479][650]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001988E0B1600), frame # 149650
+[2021.07.17-22.41.13:482][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.07.17-22.41.13:527][652]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.07.17-22.41.14:680][789]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.17-22.41.14:686][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.17-22.41.14:686][789]PIE: New page: PIE session: VehicleExampleMap (Jul 17, 2021, 2:41:14 PM)
+[2021.07.17-22.41.14:686][789]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.41.14:844][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157555s)
+[2021.07.17-22.41.14:844][789]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.07.17-22.41.14:844][789]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001984BAF1200), frame # 149789
+[2021.07.17-22.41.14:845][789]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001988C77A980), frame # 149789
+[2021.07.17-22.41.14:845][789]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2021.07.17-22.41.14:845][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.158640s)
+[2021.07.17-22.41.14:852][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.07.17-22.41.14:854][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.17-22.41.14:854][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.17-22.41.14:854][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.17-22.41.14:854][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.17-22.41.14:854][789]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.17-22.41.14:854][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.17-22.41.14:854][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.17-22.41.14:854][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.17-22.41.14:854][789]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.17-22.41.14:854][789]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.17-22.41.14:857][789]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.17-22.41.14:857][789]LogAudioMixer: Display: 1: FrontRight
+[2021.07.17-22.41.14:868][789]LogAudioMixer: Display: Using Audio Device Headphones (2- High Definition Audio Device)
+[2021.07.17-22.41.14:868][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.17-22.41.14:868][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.17-22.41.14:868][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.17-22.41.14:869][789]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.17-22.41.14:877][789]LogInit: FAudioDevice initialized.
+[2021.07.17-22.41.14:883][789]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.07.17-22.41.14:894][789]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.07.17-18.41.14
+[2021.07.17-22.41.14:894][789]LogWorld: Bringing up level for play took: 0.010519
+[2021.07.17-22.41.14:894][789]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.07.17-22.41.14:896][789]PIE: Server logged in
+[2021.07.17-22.41.14:897][789]PIE: Play in editor total start time 0.211 seconds.
+[2021.07.17-22.44.07:031][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.44.07:031][435]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.44.07:031][435]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-22.44.07:033][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.44.07:043][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.17-22.44.07:045][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.44.07:052][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.44.07:066][435]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001988C77A980), frame # 170435
+[2021.07.17-22.44.07:066][435]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001984BAF1200), frame # 170435
+[2021.07.17-22.44.07:067][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.07.17-22.44.07:111][437]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.07.17-22.44.46:293][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.07.17-22.44.46:627][134]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMapAE405F4B4D2FFCC6010FE48EEF371DC5.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.44.46:842][134]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltData736DC5374B1ED214301F6DB3EA815023.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.44.46:850][134]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.44.46:850][134]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.44.46:850][134]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.49.41:932][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Physic_Cube15)
+[2021.07.17-22.50.04:865][565]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Physic_Cube14)
+[2021.07.17-22.50.06:033][701]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Physic_Cube16)
+[2021.07.17-22.50.06:963][809]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Physic_Cube17)
+[2021.07.17-22.50.11:195][297]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Physic_Cube11)
+[2021.07.17-22.50.12:517][452]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Physic_Cube12)
+[2021.07.17-22.50.13:780][600]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Physic_Cube13)
+[2021.07.17-22.50.21:436][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.17-22.50.21:768][507]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMapA615E3C34085019041ECB5AD1BF6DCDF.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.07.17-22.50.21:984][507]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/VehicleExampleMap_BuiltData8680092D4A2CBE76EC8DEFB69E4CE716.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.07.17-22.50.21:992][507]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.17-22.50.21:993][507]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.07.17-22.50.21:993][507]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.07.17-22.51.15:918][254]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/bob/Desktop/2021/glass_shattered.fbx)
+[2021.07.17-22.51.15:945][254]LogFbx: Loading FBX Scene from C:/Users/bob/Desktop/2021/glass_shattered.fbx
+[2021.07.17-22.51.16:007][254]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.17-22.51.28:694][254]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.07.17-22.51.28:835][254]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2021.07.17-22.51.28:875][254]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2021.07.17-22.51.28:875][254]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.07.17-22.51.28:875][254]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.07.17-22.51.28:875][254]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.07.17-22.51.28:875][254]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.17-22.51.28:875][254]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.07.17-22.51.28:875][254]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.07.17-22.51.28:875][254]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.07.17-22.51.28:875][254]LogFbx: Display: Triangulating static mesh Cube_cell.001
+[2021.07.17-22.51.28:878][254]LogFbx: Display: Triangulating static mesh Cube_cell.006
+[2021.07.17-22.51.28:878][254]LogFbx: Display: Triangulating static mesh Cube_cell.007
+[2021.07.17-22.51.28:879][254]LogFbx: Display: Triangulating static mesh Cube_cell.009
+[2021.07.17-22.51.28:880][254]LogFbx: Display: Triangulating static mesh Cube_cell.011
+[2021.07.17-22.51.28:880][254]LogFbx: Display: Triangulating static mesh Cube_cell.013
+[2021.07.17-22.51.28:881][254]LogFbx: Display: Triangulating static mesh Cube_cell.014
+[2021.07.17-22.51.28:881][254]LogFbx: Display: Triangulating static mesh Cube_cell.017
+[2021.07.17-22.51.28:882][254]LogFbx: Display: Triangulating static mesh Cube_cell.024
+[2021.07.17-22.51.28:882][254]LogFbx: Display: Triangulating static mesh Cube_cell.025
+[2021.07.17-22.51.28:883][254]LogFbx: Display: Triangulating static mesh Cube_cell.026
+[2021.07.17-22.51.28:883][254]LogFbx: Display: Triangulating static mesh Cube_cell.016_cell.002
+[2021.07.17-22.51.28:884][254]LogFbx: Display: Triangulating static mesh Cube_cell.016_cell.004
+[2021.07.17-22.51.28:884][254]LogFbx: Display: Triangulating static mesh Cube_cell.015_cell
+[2021.07.17-22.51.28:884][254]LogFbx: Display: Triangulating static mesh Cube_cell.015_cell.004
+[2021.07.17-22.51.28:885][254]LogFbx: Display: Triangulating static mesh Cube_cell.015_cell.006
+[2021.07.17-22.51.28:885][254]LogFbx: Display: Triangulating static mesh Cube_cell.015_cell.007
+[2021.07.17-22.51.28:886][254]LogFbx: Display: Triangulating static mesh Cube_cell.010_cell
+[2021.07.17-22.51.28:886][254]LogFbx: Display: Triangulating static mesh Cube_cell.010_cell.002
+[2021.07.17-22.51.28:887][254]LogFbx: Display: Triangulating static mesh Cube_cell.010_cell.004
+[2021.07.17-22.51.28:887][254]LogFbx: Display: Triangulating static mesh Cube_cell.010_cell.005
+[2021.07.17-22.51.28:887][254]LogFbx: Display: Triangulating static mesh Cube_cell.008_cell.002
+[2021.07.17-22.51.28:888][254]LogFbx: Display: Triangulating static mesh Cube_cell.008_cell.003
+[2021.07.17-22.51.28:888][254]LogFbx: Display: Triangulating static mesh Cube_cell.008_cell.004
+[2021.07.17-22.51.28:889][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell
+[2021.07.17-22.51.28:889][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.002
+[2021.07.17-22.51.28:890][254]LogFbx: Display: Triangulating static mesh Cube_cell_cell
+[2021.07.17-22.51.28:890][254]LogFbx: Display: Triangulating static mesh Cube_cell_cell.002
+[2021.07.17-22.51.28:891][254]LogFbx: Display: Triangulating static mesh Cube_cell_cell.003
+[2021.07.17-22.51.28:891][254]LogFbx: Display: Triangulating static mesh Cube_cell_cell.004
+[2021.07.17-22.51.28:892][254]LogFbx: Display: Triangulating static mesh Cube_cell_cell.005_cell.003
+[2021.07.17-22.51.28:892][254]LogFbx: Display: Triangulating static mesh Cube_cell_cell.001_cell.001
+[2021.07.17-22.51.28:892][254]LogFbx: Display: Triangulating static mesh Cube_cell_cell.001_cell.003
+[2021.07.17-22.51.28:893][254]LogFbx: Display: Triangulating static mesh Cube_cell_cell.001_cell.004
+[2021.07.17-22.51.28:893][254]LogFbx: Display: Triangulating static mesh Cube_cell_cell.001_cell.005
+[2021.07.17-22.51.28:894][254]LogFbx: Display: Triangulating static mesh Cube_cell_cell.001_cell.006
+[2021.07.17-22.51.28:894][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.004_cell
+[2021.07.17-22.51.28:895][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.004_cell.001
+[2021.07.17-22.51.28:895][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.004_cell.002
+[2021.07.17-22.51.28:896][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.004_cell.006
+[2021.07.17-22.51.28:896][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.004_cell.007
+[2021.07.17-22.51.28:897][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.003_cell
+[2021.07.17-22.51.28:897][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.003_cell.001
+[2021.07.17-22.51.28:897][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.003_cell.003
+[2021.07.17-22.51.28:898][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.003_cell.005
+[2021.07.17-22.51.28:898][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.003_cell.006
+[2021.07.17-22.51.28:899][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.003_cell.007
+[2021.07.17-22.51.28:899][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.001_cell.002
+[2021.07.17-22.51.28:899][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.001_cell.004
+[2021.07.17-22.51.28:900][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.001_cell.005
+[2021.07.17-22.51.28:900][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.001_cell.006
+[2021.07.17-22.51.28:901][254]LogFbx: Display: Triangulating static mesh Cube_cell.005_cell.001_cell.007
+[2021.07.17-22.51.28:901][254]LogFbx: Display: Triangulating static mesh Cube_cell.010_cell.001_cell
+[2021.07.17-22.51.28:901][254]LogFbx: Display: Triangulating static mesh Cube_cell.010_cell.001_cell.002
+[2021.07.17-22.51.28:902][254]LogFbx: Display: Triangulating static mesh Cube_cell.010_cell.001_cell.003
+[2021.07.17-22.51.28:902][254]LogFbx: Display: Triangulating static mesh Cube_cell.015_cell.005_cell.001
+[2021.07.17-22.51.28:903][254]LogFbx: Display: Triangulating static mesh Cube_cell.015_cell.005_cell.004
+[2021.07.17-22.51.28:903][254]LogFbx: Display: Triangulating static mesh Cube_cell.015_cell.005_cell.007
+[2021.07.17-22.51.28:903][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell
+[2021.07.17-22.51.28:904][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.002
+[2021.07.17-22.51.28:904][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.003
+[2021.07.17-22.51.28:905][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.006
+[2021.07.17-22.51.28:906][254]LogFbx: Display: Triangulating static mesh Cube_cell.019_cell
+[2021.07.17-22.51.28:906][254]LogFbx: Display: Triangulating static mesh Cube_cell.019_cell.001
+[2021.07.17-22.51.28:907][254]LogFbx: Display: Triangulating static mesh Cube_cell.019_cell.002
+[2021.07.17-22.51.28:907][254]LogFbx: Display: Triangulating static mesh Cube_cell.019_cell.003
+[2021.07.17-22.51.28:907][254]LogFbx: Display: Triangulating static mesh Cube_cell.018_cell.001
+[2021.07.17-22.51.28:908][254]LogFbx: Display: Triangulating static mesh Cube_cell.018_cell.002
+[2021.07.17-22.51.28:908][254]LogFbx: Display: Triangulating static mesh Cube_cell.018_cell.003
+[2021.07.17-22.51.28:909][254]LogFbx: Display: Triangulating static mesh Cube_cell.018_cell.005
+[2021.07.17-22.51.28:910][254]LogFbx: Display: Triangulating static mesh Cube_cell.004_cell
+[2021.07.17-22.51.28:910][254]LogFbx: Display: Triangulating static mesh Cube_cell.004_cell.001
+[2021.07.17-22.51.28:911][254]LogFbx: Display: Triangulating static mesh Cube_cell.004_cell.002
+[2021.07.17-22.51.28:911][254]LogFbx: Display: Triangulating static mesh Cube_cell.004_cell.003
+[2021.07.17-22.51.28:912][254]LogFbx: Display: Triangulating static mesh Cube_cell.004_cell.004
+[2021.07.17-22.51.28:912][254]LogFbx: Display: Triangulating static mesh Cube_cell.003_cell
+[2021.07.17-22.51.28:913][254]LogFbx: Display: Triangulating static mesh Cube_cell.003_cell.002
+[2021.07.17-22.51.28:913][254]LogFbx: Display: Triangulating static mesh Cube_cell.003_cell.003
+[2021.07.17-22.51.28:913][254]LogFbx: Display: Triangulating static mesh Cube_cell.003_cell.005
+[2021.07.17-22.51.28:914][254]LogFbx: Display: Triangulating static mesh Cube_cell.003_cell.006
+[2021.07.17-22.51.28:914][254]LogFbx: Display: Triangulating static mesh Cube_cell.003_cell.007
+[2021.07.17-22.51.28:915][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell
+[2021.07.17-22.51.28:915][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.001
+[2021.07.17-22.51.28:916][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.003
+[2021.07.17-22.51.28:917][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.004
+[2021.07.17-22.51.28:917][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.005
+[2021.07.17-22.51.28:918][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.006
+[2021.07.17-22.51.28:918][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.010
+[2021.07.17-22.51.28:918][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.011
+[2021.07.17-22.51.28:919][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.013
+[2021.07.17-22.51.28:920][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.014_cell
+[2021.07.17-22.51.28:920][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.004
+[2021.07.17-22.51.28:921][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.006
+[2021.07.17-22.51.28:921][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.005_cell
+[2021.07.17-22.51.28:921][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.005_cell.003
+[2021.07.17-22.51.28:921][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.005_cell.004
+[2021.07.17-22.51.28:922][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.005_cell.005
+[2021.07.17-22.51.28:922][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.003_cell.001
+[2021.07.17-22.51.28:922][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.003_cell.003
+[2021.07.17-22.51.28:923][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.003_cell.005
+[2021.07.17-22.51.28:923][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.003_cell.006
+[2021.07.17-22.51.28:924][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.003_cell.007
+[2021.07.17-22.51.28:924][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.002_cell
+[2021.07.17-22.51.28:924][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.002_cell.002
+[2021.07.17-22.51.28:925][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.002_cell.004
+[2021.07.17-22.51.28:925][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.002_cell.005
+[2021.07.17-22.51.28:926][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.002_cell.006
+[2021.07.17-22.51.28:926][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.002_cell.002_cell.007
+[2021.07.17-22.51.28:927][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.014_cell.005_cell.002
+[2021.07.17-22.51.28:927][254]LogFbx: Display: Triangulating static mesh Cube_cell.012_cell.014_cell.005_cell.004
+[2021.07.17-22.51.28:927][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell.002
+[2021.07.17-22.51.28:928][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell.003
+[2021.07.17-22.51.28:928][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell.005
+[2021.07.17-22.51.28:929][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell.008
+[2021.07.17-22.51.28:929][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell_cell
+[2021.07.17-22.51.28:930][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell_cell.005
+[2021.07.17-22.51.28:930][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell_cell.001_cell.001
+[2021.07.17-22.51.28:931][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell_cell.001_cell.002
+[2021.07.17-22.51.28:931][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell_cell.001_cell.004
+[2021.07.17-22.51.28:932][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell_cell.001_cell.006
+[2021.07.17-22.51.28:932][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell.007_cell
+[2021.07.17-22.51.28:932][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell.007_cell.001
+[2021.07.17-22.51.28:933][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell.007_cell.002
+[2021.07.17-22.51.28:934][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell.007_cell.003
+[2021.07.17-22.51.28:934][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell.007_cell.005
+[2021.07.17-22.51.28:935][254]LogFbx: Display: Triangulating static mesh Cube_cell.020_cell.007_cell.006
+[2021.07.17-22.51.28:936][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell
+[2021.07.17-22.51.28:936][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.002
+[2021.07.17-22.51.28:937][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.003
+[2021.07.17-22.51.28:937][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.004
+[2021.07.17-22.51.28:938][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.005_cell.003
+[2021.07.17-22.51.28:939][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.005_cell.006
+[2021.07.17-22.51.28:939][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.005_cell.007
+[2021.07.17-22.51.28:939][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.005_cell_cell.002
+[2021.07.17-22.51.28:940][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.005_cell_cell.003
+[2021.07.17-22.51.28:940][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.005_cell_cell.007
+[2021.07.17-22.51.28:941][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.007_cell
+[2021.07.17-22.51.28:941][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.007_cell.001
+[2021.07.17-22.51.28:942][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.007_cell.002
+[2021.07.17-22.51.28:943][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.007_cell.004
+[2021.07.17-22.51.28:943][254]LogFbx: Display: Triangulating static mesh Cube_cell.021_cell.007_cell.005
+[2021.07.17-22.51.28:944][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.002
+[2021.07.17-22.51.28:944][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.003
+[2021.07.17-22.51.28:944][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.006
+[2021.07.17-22.51.28:945][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.007
+[2021.07.17-22.51.28:946][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.008
+[2021.07.17-22.51.28:946][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.009
+[2021.07.17-22.51.28:947][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.012
+[2021.07.17-22.51.28:947][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.011_cell.001
+[2021.07.17-22.51.28:948][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.011_cell.005
+[2021.07.17-22.51.28:948][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.003
+[2021.07.17-22.51.28:949][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.005
+[2021.07.17-22.51.28:949][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.006
+[2021.07.17-22.51.28:950][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.007
+[2021.07.17-22.51.28:951][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.002_cell
+[2021.07.17-22.51.28:951][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.002_cell.002
+[2021.07.17-22.51.28:951][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.002_cell.003
+[2021.07.17-22.51.28:951][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.002_cell.004
+[2021.07.17-22.51.28:951][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.002_cell.005
+[2021.07.17-22.51.28:952][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.002_cell.006
+[2021.07.17-22.51.28:952][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.004_cell.002_cell.007
+[2021.07.17-22.51.28:953][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.011_cell.004_cell.002
+[2021.07.17-22.51.28:953][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.011_cell.004_cell.003
+[2021.07.17-22.51.28:953][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.011_cell_cell.001
+[2021.07.17-22.51.28:954][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.011_cell_cell.002
+[2021.07.17-22.51.28:955][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.011_cell_cell.004
+[2021.07.17-22.51.28:956][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.011_cell_cell.005
+[2021.07.17-22.51.28:956][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.005_cell.003
+[2021.07.17-22.51.28:957][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.005_cell.005
+[2021.07.17-22.51.28:957][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.005_cell.006
+[2021.07.17-22.51.28:958][254]LogFbx: Display: Triangulating static mesh Cube_cell.022_cell.005_cell.007
+[2021.07.17-22.51.28:958][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.008
+[2021.07.17-22.51.28:959][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.009
+[2021.07.17-22.51.28:961][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.012
+[2021.07.17-22.51.28:962][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.013
+[2021.07.17-22.51.28:962][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.014
+[2021.07.17-22.51.28:963][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.005_cell
+[2021.07.17-22.51.28:964][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.005_cell.001
+[2021.07.17-22.51.28:964][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.005_cell.003
+[2021.07.17-22.51.28:965][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.005_cell.006
+[2021.07.17-22.51.28:966][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.003_cell.002
+[2021.07.17-22.51.28:966][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.003_cell.003
+[2021.07.17-22.51.28:967][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.003_cell.005
+[2021.07.17-22.51.28:967][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.003_cell.006
+[2021.07.17-22.51.28:968][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.003_cell.007
+[2021.07.17-22.51.28:968][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.003_cell.004_cell
+[2021.07.17-22.51.28:969][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.003_cell.004_cell.002
+[2021.07.17-22.51.28:969][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.003_cell.004_cell.003
+[2021.07.17-22.51.28:970][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.003_cell.004_cell.004
+[2021.07.17-22.51.28:971][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.003_cell.004_cell.005
+[2021.07.17-22.51.28:971][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.010_cell
+[2021.07.17-22.51.28:971][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.010_cell.001
+[2021.07.17-22.51.28:972][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.010_cell.002
+[2021.07.17-22.51.28:973][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.010_cell.005
+[2021.07.17-22.51.28:974][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.010_cell.006
+[2021.07.17-22.51.28:974][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.004_cell.001
+[2021.07.17-22.51.28:975][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.004_cell.002
+[2021.07.17-22.51.28:975][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.004_cell.003
+[2021.07.17-22.51.28:976][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.004_cell.004
+[2021.07.17-22.51.28:976][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.004_cell.005
+[2021.07.17-22.51.28:976][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.004_cell.007
+[2021.07.17-22.51.28:978][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.002_cell
+[2021.07.17-22.51.28:978][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.002_cell.005
+[2021.07.17-22.51.28:979][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.002_cell.006
+[2021.07.17-22.51.28:980][254]LogFbx: Display: Triangulating static mesh Cube_cell.027_cell.002_cell.007
+[2021.07.17-22.51.28:980][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.002
+[2021.07.17-22.51.28:981][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.003
+[2021.07.17-22.51.28:981][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.007
+[2021.07.17-22.51.28:982][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.008
+[2021.07.17-22.51.28:982][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.009
+[2021.07.17-22.51.28:983][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell.001
+[2021.07.17-22.51.28:984][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell.002
+[2021.07.17-22.51.28:985][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell.007
+[2021.07.17-22.51.28:986][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.001_cell
+[2021.07.17-22.51.28:987][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.001_cell.001
+[2021.07.17-22.51.28:988][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.001_cell.005_cell.001
+[2021.07.17-22.51.28:988][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.001_cell.005_cell.002
+[2021.07.17-22.51.28:989][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.001_cell.005_cell.003
+[2021.07.17-22.51.28:989][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.001_cell.005_cell.006
+[2021.07.17-22.51.28:990][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.001_cell.005_cell.007
+[2021.07.17-22.51.28:990][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell.004_cell
+[2021.07.17-22.51.28:991][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell.004_cell.003
+[2021.07.17-22.51.28:992][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell.004_cell.004
+[2021.07.17-22.51.28:992][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell.004_cell.005
+[2021.07.17-22.51.28:992][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell.004_cell.006
+[2021.07.17-22.51.28:993][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell.004_cell.007
+[2021.07.17-22.51.28:994][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell_cell
+[2021.07.17-22.51.28:995][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell_cell.001
+[2021.07.17-22.51.28:995][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell_cell.002
+[2021.07.17-22.51.28:995][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell_cell.004
+[2021.07.17-22.51.28:996][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell_cell.005
+[2021.07.17-22.51.28:996][254]LogFbx: Display: Triangulating static mesh Cube_cell.023_cell.001_cell.004_cell_cell.006
+[2021.07.17-22.51.29:005][254]LogStaticMesh: Building static mesh glass_shattered...
+[2021.07.17-22.51.29:098][254]LogStaticMesh: Built static mesh [0.09s] /Game/VehicleBP/glass_shattered.glass_shattered
+[2021.07.17-22.51.29:110][254]LogStaticMesh: Warning: glass_shattered has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.07.17-22.51.29:110][254]LogStaticMesh: Warning: glass_shattered has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.07.17-22.51.29:131][254]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.07.17-22.51.29:131][254]FBXImport: Error: Mesh name: [glass_shattered] part name: [Cube_cell.012_cell.014_cell.005_cell]  could not be created because all of its polygons are degenerate. 
+[2021.07.17-22.51.29:131][254]FBXImport: Error: Mesh name: [glass_shattered] part name: [Cube_cell.012_cell.014_cell.005_cell.003]  could not be created because all of its polygons are degenerate. 
+[2021.07.17-22.51.29:131][254]FBXImport: Error: Mesh name: [glass_shattered] part name: [Cube_cell.023_cell.001_cell.001_cell.006_cell.002]  could not be created because all of its polygons are degenerate. 
+[2021.07.17-22.51.29:131][254]FBXImport: Warning: glass_shattered has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.07.17-22.51.29:131][254]FBXImport: Warning: glass_shattered has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.07.17-22.51.29:213][254]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.17-22.51.34:496][828]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-22.51.34:498][828]LogSlate: Window 'Message Log' being destroyed
+[2021.07.17-22.51.36:333][  8]LogActorFactory: Actor Factory created glass_shattered
+[2021.07.17-22.51.37:366][126]LogActorFactory: Actor Factory created glass_shattered
+[2021.07.17-22.53.53:864][496]LogSlate: Window 'Save Asset As' being destroyed
+[2021.07.17-22.53.58:878][496]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2021.07.17-22.54.00:172][642]LogAssetEditorSubsystem: Opening Asset editor for PhysicalMaterial /Game/glass.glass
+[2021.07.17-22.54.34:492][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/glass" FILE="C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/glass.uasset" SILENT=true
+[2021.07.17-22.54.34:494][695]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/glassEC705C3649C843A70125538976309AA2.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/glass.uasset'
+[2021.07.17-22.54.34:503][695]AssetCheck: New page: Asset Save: glass
+[2021.07.17-22.54.34:503][695]LogContentValidation: Display: Validating PhysicalMaterial /Game/glass.glass
+[2021.07.17-22.54.35:848][854]LogSlate: Window 'glass' being destroyed
+[2021.07.17-22.54.35:851][854]LogSlate: Window 'glass' being destroyed
+[2021.07.17-22.54.37:646][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/glass_shattered" FILE="C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/glass_shattered.uasset" SILENT=true
+[2021.07.17-22.54.37:665][ 61]LogSavePackage: Moving 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Saved/glass_shatteredE73745A94F4879F85E311FB3C3779DF4.tmp' to 'C:/Users/bob/Documents/Unreal Projects/MyProject8/Content/VehicleBP/glass_shattered.uasset'
+[2021.07.17-22.54.37:676][ 61]AssetCheck: New page: Asset Save: glass_shattered
+[2021.07.17-22.54.37:676][ 61]LogContentValidation: Display: Validating StaticMesh /Game/VehicleBP/glass_shattered.glass_shattered
+[2021.07.17-22.54.39:094][224]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.17-22.54.39:101][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.17-22.54.39:101][224]PIE: New page: PIE session: VehicleExampleMap (Jul 17, 2021, 2:54:39 PM)
+[2021.07.17-22.54.39:101][224]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.54.39:267][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.165495s)
+[2021.07.17-22.54.39:268][224]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.07.17-22.54.39:268][224]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000198963C7A00), frame # 202224
+[2021.07.17-22.54.39:268][224]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001989912D6C0), frame # 202224
+[2021.07.17-22.54.39:268][224]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2021.07.17-22.54.39:268][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.166775s)
+[2021.07.17-22.54.39:277][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.17-22.54.39:279][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.17-22.54.39:279][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.17-22.54.39:279][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.17-22.54.39:279][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.17-22.54.39:279][224]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.17-22.54.39:279][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.17-22.54.39:279][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.17-22.54.39:279][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.17-22.54.39:280][224]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.17-22.54.39:280][224]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.17-22.54.39:283][224]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.17-22.54.39:283][224]LogAudioMixer: Display: 1: FrontRight
+[2021.07.17-22.54.39:295][224]LogAudioMixer: Display: Using Audio Device Headphones (2- High Definition Audio Device)
+[2021.07.17-22.54.39:295][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.17-22.54.39:295][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.17-22.54.39:295][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.17-22.54.39:295][224]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.17-22.54.39:305][224]LogInit: FAudioDevice initialized.
+[2021.07.17-22.54.39:314][224]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.07.17-22.54.39:326][224]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.07.17-18.54.39
+[2021.07.17-22.54.39:326][224]LogWorld: Bringing up level for play took: 0.010930
+[2021.07.17-22.54.39:326][224]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.07.17-22.54.39:329][224]PIE: Server logged in
+[2021.07.17-22.54.39:329][224]PIE: Play in editor total start time 0.228 seconds.
+[2021.07.17-22.54.42:269][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.54.42:269][567]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.54.42:269][567]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-22.54.42:271][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.54.42:277][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.17-22.54.42:279][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.54.42:300][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.54.42:303][567]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001989912D6C0), frame # 202567
+[2021.07.17-22.54.42:303][567]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000198963C7A00), frame # 202567
+[2021.07.17-22.54.42:304][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.07.17-22.54.42:348][569]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.07.17-22.54.42:974][644]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2021.07.17-22.54.59:091][924]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.17-22.54.59:097][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.17-22.54.59:097][924]PIE: New page: PIE session: VehicleExampleMap (Jul 17, 2021, 2:54:59 PM)
+[2021.07.17-22.54.59:128][924]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.54.59:290][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161929s)
+[2021.07.17-22.54.59:291][924]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.07.17-22.54.59:291][924]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001987F5C0A00), frame # 203924
+[2021.07.17-22.54.59:291][924]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000198A4AF1D00), frame # 203924
+[2021.07.17-22.54.59:291][924]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2021.07.17-22.54.59:291][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.163027s)
+[2021.07.17-22.54.59:302][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.07.17-22.54.59:304][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.17-22.54.59:304][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.17-22.54.59:304][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.17-22.54.59:304][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.17-22.54.59:304][924]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.17-22.54.59:304][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.17-22.54.59:304][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.17-22.54.59:304][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.17-22.54.59:305][924]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.17-22.54.59:305][924]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.17-22.54.59:308][924]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.17-22.54.59:308][924]LogAudioMixer: Display: 1: FrontRight
+[2021.07.17-22.54.59:319][924]LogAudioMixer: Display: Using Audio Device Headphones (2- High Definition Audio Device)
+[2021.07.17-22.54.59:319][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.17-22.54.59:319][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.17-22.54.59:319][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.17-22.54.59:319][924]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.17-22.54.59:329][924]LogInit: FAudioDevice initialized.
+[2021.07.17-22.54.59:337][924]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.07.17-22.54.59:348][924]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.07.17-18.54.59
+[2021.07.17-22.54.59:348][924]LogWorld: Bringing up level for play took: 0.009735
+[2021.07.17-22.54.59:349][924]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.07.17-22.54.59:351][924]PIE: Server logged in
+[2021.07.17-22.54.59:352][924]PIE: Play in editor total start time 0.255 seconds.
+[2021.07.17-22.55.12:089][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.55.12:089][441]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.07.17-22.55.12:089][441]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.17-22.55.12:091][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.55.12:095][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.17-22.55.12:097][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.17-22.55.12:118][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.17-22.55.12:136][441]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000198A4AF1D00), frame # 205441
+[2021.07.17-22.55.12:136][441]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001987F5C0A00), frame # 205441
+[2021.07.17-22.55.12:139][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.07.17-22.55.12:164][442]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.07.17-22.55.12:874][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (glass_shattered)
+[2021.07.17-22.55.17:803][ 99]LogAssetEditorSubsystem: Opening Asset editor for PhysicalMaterial /Game/glass.glass
+[2021.07.17-22.55.22:471][635]LogRHI: Error: Present Fail Count 1
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SyncInterval 0
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.BufferDesc.Width 810
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.BufferDesc.Height 122
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002401E4
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.07.17-22.55.22:471][635]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.07.17-22.55.22:471][635]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.07.17-22.55.22:471][635]LogD3D11RHI: [Aftermath] GDynamicRHI=000001983B6340C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.07.17-22.55.22:471][635]LogWindows: Windows GetLastError: The operation completed successfully. (0)
