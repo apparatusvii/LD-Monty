@@ -19,3 +19,7 @@ If you want to play through the level you'll have to use a little bit of your im
 - All the glass in the level can be destroyed but sometimes get caught in the wheel and make the car stuck. Same thing for the wooden chasm on the bridge
 
 - The reverse button has a mind of it's own. Sometimes it works, sometimes it doesn't. Unsure of why.
+
+Controls:
+if you are using a controller. The triggers are used to accelerate and brake. You can also use the face buttons to do this.
+Otherwise if youre using a controller the controls are wasd, and space for the handbrake.
